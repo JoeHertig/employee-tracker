@@ -10,12 +10,17 @@ This application is covered under the MIT license.
 
 ## Table of Contents
 
+- [Video](#video)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Testing](#testing)
 - [Questions](#questions)
+
+## Video
+
+Link to video: [Video](https://watch.screencastify.com/v/lf4cGeB9BY2vh7r1OiqD).
 
 ## Description
 
